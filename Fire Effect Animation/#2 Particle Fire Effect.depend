@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1518879127 source:c:\users\ulaþ\desktop\programs\c++\c++ projects #1\#2 particle fire effect\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	"Screen.h"
+	"Particle.h"
+	<time.h>
+
+1518804563 source:c:\users\ulaþ\desktop\programs\c++\c++ projects #1\#2 particle fire effect\src\screen.cpp
+	"Screen.h"
+
+1518648616 c:\users\ulaþ\desktop\programs\c++\c++ projects #1\#2 particle fire effect\include\screen.h
+	<iostream>
+	<SDL2/SDL.h>
+	<cstring>
+	<cmath>
+
+1518879039 c:\users\ulaþ\desktop\programs\c++\c++ projects #1\#2 particle fire effect\include\particle.h
+	<iostream>
+	<stdlib.h>
+	<cmath>
+
+1518879099 source:c:\users\ulaþ\desktop\programs\c++\c++ projects #1\#2 particle fire effect\src\particle.cpp
+	"Particle.h"
+	<iostream>
+
+1518643883 source:c:\users\ulaþ\desktop\programs\c++\c++ projects #1\#2 particle fire effect\src\manage.cpp
+	"Manage.h"
+
+1518643893 c:\users\ulaþ\desktop\programs\c++\c++ projects #1\#2 particle fire effect\include\manage.h
+	<iostream>
+	"Particle.h"
+
+1518879127 source:c:\users\ulaþ\desktop\c. science\c++\c++ projects #1\#2 particle fire effect\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	"Screen.h"
+	"Particle.h"
+	<time.h>
+
+1518648616 c:\users\ulaþ\desktop\c. science\c++\c++ projects #1\#2 particle fire effect\include\screen.h
+	<iostream>
+	<SDL2/SDL.h>
+	<cstring>
+	<cmath>
+
+1518879039 c:\users\ulaþ\desktop\c. science\c++\c++ projects #1\#2 particle fire effect\include\particle.h
+	<iostream>
+	<stdlib.h>
+	<cmath>
+
+1518879099 source:c:\users\ulaþ\desktop\c. science\c++\c++ projects #1\#2 particle fire effect\src\particle.cpp
+	"Particle.h"
+	<iostream>
+
+1518804563 source:c:\users\ulaþ\desktop\c. science\c++\c++ projects #1\#2 particle fire effect\src\screen.cpp
+	"Screen.h"
+
